@@ -32,7 +32,7 @@ The first three rows represent the roll number of the student and the rest bubbl
 1. Python
 2. OpenCv
 
-## Usage: 
+## Usage
 Use this in command line where python is installed
 `python omr.py --image images/imagename.png`
 
